@@ -1,0 +1,968 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App renders correctly 1`] = `
+<div
+  className="wrapper"
+>
+  <div
+    className="box"
+    draggable={true}
+    key="1x1"
+    onDragEnd={[Function]}
+    onDragOver={[Function]}
+    onDragStart={[Function]}
+    style={
+      Object {
+        "background": "rgba(255,0,0, 0.125)",
+      }
+    }
+  >
+    1x1
+  </div>
+  <div
+    className="box"
+    draggable={true}
+    key="1x2"
+    onDragEnd={[Function]}
+    onDragOver={[Function]}
+    onDragStart={[Function]}
+    style={
+      Object {
+        "background": "rgba(255,128,0, 0.125)",
+      }
+    }
+  >
+    1x2
+  </div>
+  <div
+    className="box"
+    draggable={true}
+    key="1x3"
+    onDragEnd={[Function]}
+    onDragOver={[Function]}
+    onDragStart={[Function]}
+    style={
+      Object {
+        "background": "rgba(255,255,0, 0.125)",
+      }
+    }
+  >
+    1x3
+  </div>
+  <div
+    className="box"
+    draggable={true}
+    key="1x4"
+    onDragEnd={[Function]}
+    onDragOver={[Function]}
+    onDragStart={[Function]}
+    style={
+      Object {
+        "background": "rgba(191,255,0, 0.125)",
+      }
+    }
+  >
+    1x4
+  </div>
+  <div
+    className="box"
+    draggable={true}
+    key="1x5"
+    onDragEnd={[Function]}
+    onDragOver={[Function]}
+    onDragStart={[Function]}
+    style={
+      Object {
+        "background": "rgba(0,255,0, 0.125)",
+      }
+    }
+  >
+    1x5
+  </div>
+  <div
+    className="box"
+    draggable={true}
+    key="1x6"
+    onDragEnd={[Function]}
+    onDragOver={[Function]}
+    onDragStart={[Function]}
+    style={
+      Object {
+        "background": "rgba(0,255,191, 0.125)",
+      }
+    }
+  >
+    1x6
+  </div>
+  <div
+    className="box"
+    draggable={true}
+    key="1x7"
+    onDragEnd={[Function]}
+    onDragOver={[Function]}
+    onDragStart={[Function]}
+    style={
+      Object {
+        "background": "rgba(0,255,255, 0.125)",
+      }
+    }
+  >
+    1x7
+  </div>
+  <div
+    className="box"
+    draggable={true}
+    key="1x8"
+    onDragEnd={[Function]}
+    onDragOver={[Function]}
+    onDragStart={[Function]}
+    style={
+      Object {
+        "background": "rgba(0,0,255, 0.125)",
+      }
+    }
+  >
+    1x8
+  </div>
+  <div
+    className="box"
+    draggable={true}
+    key="2x1"
+    onDragEnd={[Function]}
+    onDragOver={[Function]}
+    onDragStart={[Function]}
+    style={
+      Object {
+        "background": "rgba(255,0,0, 0.25)",
+      }
+    }
+  >
+    2x1
+  </div>
+  <div
+    className="box"
+    draggable={true}
+    key="2x2"
+    onDragEnd={[Function]}
+    onDragOver={[Function]}
+    onDragStart={[Function]}
+    style={
+      Object {
+        "background": "rgba(255,128,0, 0.25)",
+      }
+    }
+  >
+    2x2
+  </div>
+  <div
+    className="box"
+    draggable={true}
+    key="2x3"
+    onDragEnd={[Function]}
+    onDragOver={[Function]}
+    onDragStart={[Function]}
+    style={
+      Object {
+        "background": "rgba(255,255,0, 0.25)",
+      }
+    }
+  >
+    2x3
+  </div>
+  <div
+    className="box"
+    draggable={true}
+    key="2x4"
+    onDragEnd={[Function]}
+    onDragOver={[Function]}
+    onDragStart={[Function]}
+    style={
+      Object {
+        "background": "rgba(191,255,0, 0.25)",
+      }
+    }
+  >
+    2x4
+  </div>
+  <div
+    className="box"
+    draggable={true}
+    key="2x5"
+    onDragEnd={[Function]}
+    onDragOver={[Function]}
+    onDragStart={[Function]}
+    style={
+      Object {
+        "background": "rgba(0,255,0, 0.25)",
+      }
+    }
+  >
+    2x5
+  </div>
+  <div
+    className="box"
+    draggable={true}
+    key="2x6"
+    onDragEnd={[Function]}
+    onDragOver={[Function]}
+    onDragStart={[Function]}
+    style={
+      Object {
+        "background": "rgba(0,255,191, 0.25)",
+      }
+    }
+  >
+    2x6
+  </div>
+  <div
+    className="box"
+    draggable={true}
+    key="2x7"
+    onDragEnd={[Function]}
+    onDragOver={[Function]}
+    onDragStart={[Function]}
+    style={
+      Object {
+        "background": "rgba(0,255,255, 0.25)",
+      }
+    }
+  >
+    2x7
+  </div>
+  <div
+    className="box"
+    draggable={true}
+    key="2x8"
+    onDragEnd={[Function]}
+    onDragOver={[Function]}
+    onDragStart={[Function]}
+    style={
+      Object {
+        "background": "rgba(0,0,255, 0.25)",
+      }
+    }
+  >
+    2x8
+  </div>
+  <div
+    className="box"
+    draggable={true}
+    key="3x1"
+    onDragEnd={[Function]}
+    onDragOver={[Function]}
+    onDragStart={[Function]}
+    style={
+      Object {
+        "background": "rgba(255,0,0, 0.375)",
+      }
+    }
+  >
+    3x1
+  </div>
+  <div
+    className="box"
+    draggable={true}
+    key="3x2"
+    onDragEnd={[Function]}
+    onDragOver={[Function]}
+    onDragStart={[Function]}
+    style={
+      Object {
+        "background": "rgba(255,128,0, 0.375)",
+      }
+    }
+  >
+    3x2
+  </div>
+  <div
+    className="box"
+    draggable={true}
+    key="3x3"
+    onDragEnd={[Function]}
+    onDragOver={[Function]}
+    onDragStart={[Function]}
+    style={
+      Object {
+        "background": "rgba(255,255,0, 0.375)",
+      }
+    }
+  >
+    3x3
+  </div>
+  <div
+    className="box"
+    draggable={true}
+    key="3x4"
+    onDragEnd={[Function]}
+    onDragOver={[Function]}
+    onDragStart={[Function]}
+    style={
+      Object {
+        "background": "rgba(191,255,0, 0.375)",
+      }
+    }
+  >
+    3x4
+  </div>
+  <div
+    className="box"
+    draggable={true}
+    key="3x5"
+    onDragEnd={[Function]}
+    onDragOver={[Function]}
+    onDragStart={[Function]}
+    style={
+      Object {
+        "background": "rgba(0,255,0, 0.375)",
+      }
+    }
+  >
+    3x5
+  </div>
+  <div
+    className="box"
+    draggable={true}
+    key="3x6"
+    onDragEnd={[Function]}
+    onDragOver={[Function]}
+    onDragStart={[Function]}
+    style={
+      Object {
+        "background": "rgba(0,255,191, 0.375)",
+      }
+    }
+  >
+    3x6
+  </div>
+  <div
+    className="box"
+    draggable={true}
+    key="3x7"
+    onDragEnd={[Function]}
+    onDragOver={[Function]}
+    onDragStart={[Function]}
+    style={
+      Object {
+        "background": "rgba(0,255,255, 0.375)",
+      }
+    }
+  >
+    3x7
+  </div>
+  <div
+    className="box"
+    draggable={true}
+    key="3x8"
+    onDragEnd={[Function]}
+    onDragOver={[Function]}
+    onDragStart={[Function]}
+    style={
+      Object {
+        "background": "rgba(0,0,255, 0.375)",
+      }
+    }
+  >
+    3x8
+  </div>
+  <div
+    className="box"
+    draggable={true}
+    key="4x1"
+    onDragEnd={[Function]}
+    onDragOver={[Function]}
+    onDragStart={[Function]}
+    style={
+      Object {
+        "background": "rgba(255,0,0, 0.5)",
+      }
+    }
+  >
+    4x1
+  </div>
+  <div
+    className="box"
+    draggable={true}
+    key="4x2"
+    onDragEnd={[Function]}
+    onDragOver={[Function]}
+    onDragStart={[Function]}
+    style={
+      Object {
+        "background": "rgba(255,128,0, 0.5)",
+      }
+    }
+  >
+    4x2
+  </div>
+  <div
+    className="box"
+    draggable={true}
+    key="4x3"
+    onDragEnd={[Function]}
+    onDragOver={[Function]}
+    onDragStart={[Function]}
+    style={
+      Object {
+        "background": "rgba(255,255,0, 0.5)",
+      }
+    }
+  >
+    4x3
+  </div>
+  <div
+    className="box"
+    draggable={true}
+    key="4x4"
+    onDragEnd={[Function]}
+    onDragOver={[Function]}
+    onDragStart={[Function]}
+    style={
+      Object {
+        "background": "rgba(191,255,0, 0.5)",
+      }
+    }
+  >
+    4x4
+  </div>
+  <div
+    className="box"
+    draggable={true}
+    key="4x5"
+    onDragEnd={[Function]}
+    onDragOver={[Function]}
+    onDragStart={[Function]}
+    style={
+      Object {
+        "background": "rgba(0,255,0, 0.5)",
+      }
+    }
+  >
+    4x5
+  </div>
+  <div
+    className="box"
+    draggable={true}
+    key="4x6"
+    onDragEnd={[Function]}
+    onDragOver={[Function]}
+    onDragStart={[Function]}
+    style={
+      Object {
+        "background": "rgba(0,255,191, 0.5)",
+      }
+    }
+  >
+    4x6
+  </div>
+  <div
+    className="box"
+    draggable={true}
+    key="4x7"
+    onDragEnd={[Function]}
+    onDragOver={[Function]}
+    onDragStart={[Function]}
+    style={
+      Object {
+        "background": "rgba(0,255,255, 0.5)",
+      }
+    }
+  >
+    4x7
+  </div>
+  <div
+    className="box"
+    draggable={true}
+    key="4x8"
+    onDragEnd={[Function]}
+    onDragOver={[Function]}
+    onDragStart={[Function]}
+    style={
+      Object {
+        "background": "rgba(0,0,255, 0.5)",
+      }
+    }
+  >
+    4x8
+  </div>
+  <div
+    className="box"
+    draggable={true}
+    key="5x1"
+    onDragEnd={[Function]}
+    onDragOver={[Function]}
+    onDragStart={[Function]}
+    style={
+      Object {
+        "background": "rgba(255,0,0, 0.625)",
+      }
+    }
+  >
+    5x1
+  </div>
+  <div
+    className="box"
+    draggable={true}
+    key="5x2"
+    onDragEnd={[Function]}
+    onDragOver={[Function]}
+    onDragStart={[Function]}
+    style={
+      Object {
+        "background": "rgba(255,128,0, 0.625)",
+      }
+    }
+  >
+    5x2
+  </div>
+  <div
+    className="box"
+    draggable={true}
+    key="5x3"
+    onDragEnd={[Function]}
+    onDragOver={[Function]}
+    onDragStart={[Function]}
+    style={
+      Object {
+        "background": "rgba(255,255,0, 0.625)",
+      }
+    }
+  >
+    5x3
+  </div>
+  <div
+    className="box"
+    draggable={true}
+    key="5x4"
+    onDragEnd={[Function]}
+    onDragOver={[Function]}
+    onDragStart={[Function]}
+    style={
+      Object {
+        "background": "rgba(191,255,0, 0.625)",
+      }
+    }
+  >
+    5x4
+  </div>
+  <div
+    className="box"
+    draggable={true}
+    key="5x5"
+    onDragEnd={[Function]}
+    onDragOver={[Function]}
+    onDragStart={[Function]}
+    style={
+      Object {
+        "background": "rgba(0,255,0, 0.625)",
+      }
+    }
+  >
+    5x5
+  </div>
+  <div
+    className="box"
+    draggable={true}
+    key="5x6"
+    onDragEnd={[Function]}
+    onDragOver={[Function]}
+    onDragStart={[Function]}
+    style={
+      Object {
+        "background": "rgba(0,255,191, 0.625)",
+      }
+    }
+  >
+    5x6
+  </div>
+  <div
+    className="box"
+    draggable={true}
+    key="5x7"
+    onDragEnd={[Function]}
+    onDragOver={[Function]}
+    onDragStart={[Function]}
+    style={
+      Object {
+        "background": "rgba(0,255,255, 0.625)",
+      }
+    }
+  >
+    5x7
+  </div>
+  <div
+    className="box"
+    draggable={true}
+    key="5x8"
+    onDragEnd={[Function]}
+    onDragOver={[Function]}
+    onDragStart={[Function]}
+    style={
+      Object {
+        "background": "rgba(0,0,255, 0.625)",
+      }
+    }
+  >
+    5x8
+  </div>
+  <div
+    className="box"
+    draggable={true}
+    key="6x1"
+    onDragEnd={[Function]}
+    onDragOver={[Function]}
+    onDragStart={[Function]}
+    style={
+      Object {
+        "background": "rgba(255,0,0, 0.75)",
+      }
+    }
+  >
+    6x1
+  </div>
+  <div
+    className="box"
+    draggable={true}
+    key="6x2"
+    onDragEnd={[Function]}
+    onDragOver={[Function]}
+    onDragStart={[Function]}
+    style={
+      Object {
+        "background": "rgba(255,128,0, 0.75)",
+      }
+    }
+  >
+    6x2
+  </div>
+  <div
+    className="box"
+    draggable={true}
+    key="6x3"
+    onDragEnd={[Function]}
+    onDragOver={[Function]}
+    onDragStart={[Function]}
+    style={
+      Object {
+        "background": "rgba(255,255,0, 0.75)",
+      }
+    }
+  >
+    6x3
+  </div>
+  <div
+    className="box"
+    draggable={true}
+    key="6x4"
+    onDragEnd={[Function]}
+    onDragOver={[Function]}
+    onDragStart={[Function]}
+    style={
+      Object {
+        "background": "rgba(191,255,0, 0.75)",
+      }
+    }
+  >
+    6x4
+  </div>
+  <div
+    className="box"
+    draggable={true}
+    key="6x5"
+    onDragEnd={[Function]}
+    onDragOver={[Function]}
+    onDragStart={[Function]}
+    style={
+      Object {
+        "background": "rgba(0,255,0, 0.75)",
+      }
+    }
+  >
+    6x5
+  </div>
+  <div
+    className="box"
+    draggable={true}
+    key="6x6"
+    onDragEnd={[Function]}
+    onDragOver={[Function]}
+    onDragStart={[Function]}
+    style={
+      Object {
+        "background": "rgba(0,255,191, 0.75)",
+      }
+    }
+  >
+    6x6
+  </div>
+  <div
+    className="box"
+    draggable={true}
+    key="6x7"
+    onDragEnd={[Function]}
+    onDragOver={[Function]}
+    onDragStart={[Function]}
+    style={
+      Object {
+        "background": "rgba(0,255,255, 0.75)",
+      }
+    }
+  >
+    6x7
+  </div>
+  <div
+    className="box"
+    draggable={true}
+    key="6x8"
+    onDragEnd={[Function]}
+    onDragOver={[Function]}
+    onDragStart={[Function]}
+    style={
+      Object {
+        "background": "rgba(0,0,255, 0.75)",
+      }
+    }
+  >
+    6x8
+  </div>
+  <div
+    className="box"
+    draggable={true}
+    key="7x1"
+    onDragEnd={[Function]}
+    onDragOver={[Function]}
+    onDragStart={[Function]}
+    style={
+      Object {
+        "background": "rgba(255,0,0, 0.875)",
+      }
+    }
+  >
+    7x1
+  </div>
+  <div
+    className="box"
+    draggable={true}
+    key="7x2"
+    onDragEnd={[Function]}
+    onDragOver={[Function]}
+    onDragStart={[Function]}
+    style={
+      Object {
+        "background": "rgba(255,128,0, 0.875)",
+      }
+    }
+  >
+    7x2
+  </div>
+  <div
+    className="box"
+    draggable={true}
+    key="7x3"
+    onDragEnd={[Function]}
+    onDragOver={[Function]}
+    onDragStart={[Function]}
+    style={
+      Object {
+        "background": "rgba(255,255,0, 0.875)",
+      }
+    }
+  >
+    7x3
+  </div>
+  <div
+    className="box"
+    draggable={true}
+    key="7x4"
+    onDragEnd={[Function]}
+    onDragOver={[Function]}
+    onDragStart={[Function]}
+    style={
+      Object {
+        "background": "rgba(191,255,0, 0.875)",
+      }
+    }
+  >
+    7x4
+  </div>
+  <div
+    className="box"
+    draggable={true}
+    key="7x5"
+    onDragEnd={[Function]}
+    onDragOver={[Function]}
+    onDragStart={[Function]}
+    style={
+      Object {
+        "background": "rgba(0,255,0, 0.875)",
+      }
+    }
+  >
+    7x5
+  </div>
+  <div
+    className="box"
+    draggable={true}
+    key="7x6"
+    onDragEnd={[Function]}
+    onDragOver={[Function]}
+    onDragStart={[Function]}
+    style={
+      Object {
+        "background": "rgba(0,255,191, 0.875)",
+      }
+    }
+  >
+    7x6
+  </div>
+  <div
+    className="box"
+    draggable={true}
+    key="7x7"
+    onDragEnd={[Function]}
+    onDragOver={[Function]}
+    onDragStart={[Function]}
+    style={
+      Object {
+        "background": "rgba(0,255,255, 0.875)",
+      }
+    }
+  >
+    7x7
+  </div>
+  <div
+    className="box"
+    draggable={true}
+    key="7x8"
+    onDragEnd={[Function]}
+    onDragOver={[Function]}
+    onDragStart={[Function]}
+    style={
+      Object {
+        "background": "rgba(0,0,255, 0.875)",
+      }
+    }
+  >
+    7x8
+  </div>
+  <div
+    className="box"
+    draggable={true}
+    key="8x1"
+    onDragEnd={[Function]}
+    onDragOver={[Function]}
+    onDragStart={[Function]}
+    style={
+      Object {
+        "background": "rgba(255,0,0, 1)",
+      }
+    }
+  >
+    8x1
+  </div>
+  <div
+    className="box"
+    draggable={true}
+    key="8x2"
+    onDragEnd={[Function]}
+    onDragOver={[Function]}
+    onDragStart={[Function]}
+    style={
+      Object {
+        "background": "rgba(255,128,0, 1)",
+      }
+    }
+  >
+    8x2
+  </div>
+  <div
+    className="box"
+    draggable={true}
+    key="8x3"
+    onDragEnd={[Function]}
+    onDragOver={[Function]}
+    onDragStart={[Function]}
+    style={
+      Object {
+        "background": "rgba(255,255,0, 1)",
+      }
+    }
+  >
+    8x3
+  </div>
+  <div
+    className="box"
+    draggable={true}
+    key="8x4"
+    onDragEnd={[Function]}
+    onDragOver={[Function]}
+    onDragStart={[Function]}
+    style={
+      Object {
+        "background": "rgba(191,255,0, 1)",
+      }
+    }
+  >
+    8x4
+  </div>
+  <div
+    className="box"
+    draggable={true}
+    key="8x5"
+    onDragEnd={[Function]}
+    onDragOver={[Function]}
+    onDragStart={[Function]}
+    style={
+      Object {
+        "background": "rgba(0,255,0, 1)",
+      }
+    }
+  >
+    8x5
+  </div>
+  <div
+    className="box"
+    draggable={true}
+    key="8x6"
+    onDragEnd={[Function]}
+    onDragOver={[Function]}
+    onDragStart={[Function]}
+    style={
+      Object {
+        "background": "rgba(0,255,191, 1)",
+      }
+    }
+  >
+    8x6
+  </div>
+  <div
+    className="box"
+    draggable={true}
+    key="8x7"
+    onDragEnd={[Function]}
+    onDragOver={[Function]}
+    onDragStart={[Function]}
+    style={
+      Object {
+        "background": "rgba(0,255,255, 1)",
+      }
+    }
+  >
+    8x7
+  </div>
+  <div
+    className="box"
+    draggable={true}
+    key="8x8"
+    onDragEnd={[Function]}
+    onDragOver={[Function]}
+    onDragStart={[Function]}
+    style={
+      Object {
+        "background": "rgba(0,0,255, 1)",
+      }
+    }
+  >
+    8x8
+  </div>
+</div>
+`;

@@ -1,0 +1,20 @@
+$base-border: 1px solid #ccc;
+$box-size: 4rem;
+
+.wrapper {
+  border: $base-border;
+  border-width: 1px 0 0 1px;
+  width: 8 * $box-size;
+  height: 8 * $box-size;
+}
+
+.box {
+  border: $base-border;
+  border-width: 0 1px 1px 0;
+  box-sizing: border-box;
+  width: $box-size;
+  height: $box-size;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
